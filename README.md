@@ -1,2 +1,2 @@
 # CursoPython
-Curso de Python peo Curso em Video
+Curso de Python pelo Curso em Video
